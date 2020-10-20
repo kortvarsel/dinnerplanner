@@ -1,5 +1,7 @@
 # Dinner Planner React
 
+API currently out of play, but it's supposed to be an e-commerce application.
+
 ## How to get started
 
 Since modern frameworks use some advanced features like compiling the templates and source code in pure
